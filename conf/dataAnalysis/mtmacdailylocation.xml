@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<config>
+        <!-- spark应用名称  -->
+        <appName>MTDailyLocation</appName>
+        <recoderTable>MacRecoder</recoderTable>
+        <recoderDateInxTable>MacRecoder_dateInx</recoderDateInxTable>
+        <recoderMacInxTable>MacRecoder_macInx</recoderMacInxTable>
+        <MTDailyLocation>MTDailyLocation</MTDailyLocation>
+        <mtDailyWorkLocation>MTDailyWorkLocation</mtDailyWorkLocation>
+        <mtDailyRestLocation>MTDailyRestLocation</mtDailyRestLocation>
+        <!--连接天数-->
+        <connectdays>2</connectdays>
+        <!--连接次数-->
+        <connectcot>5</connectcot>
+</config>
